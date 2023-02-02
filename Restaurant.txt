@@ -1,0 +1,5 @@
+Flattis 04072805724 1225 FaisalTown Pizza,Burger,Sandwich
+HolidayInn 0942374984 513 MCcLoadRoad Muffin,Karahi,Biryani
+PCHotel 07278462492 2000 ShahraheQuaid CandyFloss,Sushi,Chauman
+Cheesious 6875747887 275 ZamanPark Pickle:Burger:Tikka
+Pickle:Burger:Tikka Pickle:Burger:Tikka Pickle:Burger:Tikka Pickle:Burger:Tikka Pickle:Burger:Tikka
